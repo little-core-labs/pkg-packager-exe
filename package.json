@@ -1,0 +1,29 @@
+{
+  "name": "pkg-packager-exe",
+  "version": "0.0.0",
+  "description": "A `pkg-packager` builder for Windows executable (.exe) files.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "pkg",
+    "packager",
+    "windows",
+    "exe"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rcedit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/pkg-packager-exe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/little-core-labs/pkg-packager-exe/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/pkg-packager-exe#readme"
+}
